@@ -115,23 +115,9 @@ header {
         opacity: 1;
     }
 }
-.card h2:hover,
-.card ul li strong:hover,
+
 .card ul li img:hover {
-    transform: scale(1.1);
-}
-
-.card h2,
-.card ul li strong,
-.card ul li img {
-    transition: transform .3s;
-}
-
-.card,
-.card h2,
-.card ul li strong,
-.card ul li img {
-    animation: appear .7s;
+    transform: scale(1.2);
 }
 
 .card {
